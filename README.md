@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Akayusuf
+- 👀 I’m interested in becoming a front-end developer
+- 🌱 I’m currently learning javascript(react)
