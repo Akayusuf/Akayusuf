@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Akayusuf
-- 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning javascript(react)
+- Hi, my name is Akayusuf
+- I’m a front-end developer
+- I design for web.
+  I'm good working with HTML, CSS, JAVASCRIPT and some tools like (TailwindCss, Bootstrap, React)
